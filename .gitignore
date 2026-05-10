@@ -121,3 +121,10 @@ typedoc.json
 
 # tsx
 **/tsx-0
+*.cpython
+*.pyc
+__pycache__/
+*.xlsx 
+*.json 
+*.pkl 
+*.md

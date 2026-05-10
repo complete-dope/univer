@@ -101,7 +101,7 @@ function createNewInstance() {
     const univer = new Univer({
         // theme: greenTheme,
         darkMode: localStorage.getItem('local.darkMode') === 'dark',
-        locale: LocaleType.ZH_CN,
+        locale: LocaleType.EN_US,
         locales: {
             [LocaleType.CA_ES]: caES,
             [LocaleType.EN_US]: enUS,
